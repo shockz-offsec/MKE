@@ -1,5 +1,5 @@
 # MKE
-My Kali Environment (MKE) es un conjuntos de script programados en bash que te permite convertir una distribución de Linux en un entorno de trabajo profesional de manera automática (style [s4vitar](https://youtu.be/66IAhBI0bCM)). También te permite personalizar varias utilidades como el estilo del powerlevel10k, el tema de la polybar, etc., de manera que no se configure todo en un solo estilo, sino que el usuario elija ciertas configuraciones según sus preferencias. Además contiene utilidades que considere interesantes o necesarias en caso de ser instalador el máquinas virtuales, diccionarios, herramientas y configuraciones personales.
+My Kali Environment (MKE) es un conjuntos de scripts programados en bash que te permite convertir una distribución de Linux en un entorno de trabajo profesional de manera automática (style [s4vitar](https://youtu.be/66IAhBI0bCM)). También te permite personalizar varias utilidades como el estilo del powerlevel10k, el tema de la polybar, etc., de manera que no se configure todo en un solo estilo, sino que el usuario elija ciertas configuraciones según sus preferencias. Además contiene utilidades que considere interesantes o necesarias en caso de ser instalador el máquinas virtuales, diccionarios, herramientas y configuraciones personales.
 
 ## Testeado en las siguientes distribuciones de Linux:
 - Kali Linux 2020.4

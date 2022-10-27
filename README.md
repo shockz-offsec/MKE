@@ -11,7 +11,7 @@ My Kali Environment (MKE) son un conjunto de scripts programados en bash que te 
 
 **1)** Clonamos el repositorio:
 ```
-git clone https://github.com/jmlgomez73/MKE
+git clone https://github.com/shockz-offsec/MKE
 cd MKE
 ```
 **2)** Dar permisos de ejecución a install.sh
@@ -101,6 +101,6 @@ Escribimos un comando y al presionar <kbd>Esc</kbd> + <kbd>Esc</kbd> , apareceri
 - Editar el código a gusto
 
 ## Créditos
-- Autor de la versión modificada y ampliada: jmlgomez73
+- Autor de la versión modificada y ampliada: shockz-offsec
 - Autor de la version base: leviswings
 - Inspirado en s4vitar
